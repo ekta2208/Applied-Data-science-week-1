@@ -1,1 +1,1 @@
-# Applied-Data-science-week-1
+# Applied-Data-science-Capstone
